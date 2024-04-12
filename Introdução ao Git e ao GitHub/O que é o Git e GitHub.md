@@ -25,8 +25,8 @@ Git é um sistema de controle de versão distribuído que permite rastrear as al
 
 ### Links Úteis:
 
-[Documentação Oficial do Git](https://git-scm.com/doc)
-[Git Cheat Sheet: Um guia prático com comandos Git.](https://education.github.com/git-cheat-sheet-education.pdf)
+- [Documentação Oficial do Git](https://git-scm.com/doc)
+- [Git Cheat Sheet: Um guia prático com comandos Git.](https://education.github.com/git-cheat-sheet-education.pdf)
 
 ## GitHub
 ### O que é GitHub?
